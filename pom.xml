@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ru.tasha2k7.mail</groupId>
+  <artifactId>notepad</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>notepad</name>
+  <description>Спроектировать и разработать классы Запись в блокноте и Блокнот (записи блокнота хранятся в массиве). Реализовать методы: Добавить запись, Удалить запись, Редактировать запись, Посмотреть все записи.  Написать для данного кода javadoc-документацию</description>
+</project>
